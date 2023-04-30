@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-"""Based on Nicegui's ffmpeg_extract_images example"""
-
 import asyncio
 import os
 import pathlib
